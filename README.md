@@ -1,4 +1,4 @@
-![Electron CRA Boilerplate Banner](https://github.com/fabmont/electron-cra-boilerplate/master/media/repo-banner.png)
+![Electron CRA Boilerplate Banner](https://github.com/fabmont/electron-cra-boilerplate/blob/master/media/repo-banner.png)
 
 Boilerplate for creating **Electron** based apps using **create-react-app**.
 
